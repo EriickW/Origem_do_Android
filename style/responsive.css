@@ -1,0 +1,57 @@
+@media screen and (max-width: 550px) {
+    .container{
+        
+        background: white;
+        padding: 30px;
+        margin: 0;
+
+    }
+.imgs{
+    margin: auto;
+    display: block;
+    width:80%;
+}
+
+
+iframe{
+    margin: auto;
+    display: block;
+    width: 100%;
+}
+
+
+    }
+@media screen and (max-width: 780px) {
+    .container{
+        width: 100%;
+        background: white;
+        padding: 30px;
+        margin: 0;
+    }
+
+    header h1{
+        font-size: 25px;
+    }
+    header p{
+font-size: 13px;
+
+    }
+
+
+
+
+    }
+    @media screen and (max-width: 1200px) {
+        .container{
+            width: 90%;
+            background: white;
+            padding: 50px;
+            margin: auto;
+        }
+        .container h2, h3{
+            font-size: 20px;
+            margin-bottom:20px ;
+            font-family: android;
+        }
+    
+        }
